@@ -17,10 +17,10 @@ Email Me 👉 ✉️ **vanurag.star@gmail.com** For Collaboration/Project or Any
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragVerma28nov&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br>
 <!-- Snake Game Repo View -->
-<!--# 📊 Daily Stats:-->
-<!--<div align="center">-->
-<!--  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />-->
-<!--</div>-->
+# 📊 Daily Stats:
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
