@@ -2,7 +2,7 @@
 
 Hi 👋, I'm **Anurag Verma**— a passionate Software Engineer and **AI/ML Engineer** who loves building intelligent systems, scalable web apps, and creative tech solutions.
 
-💡 I enjoy solving real-world problems using data, automation, and cutting-edge technologies — from backend systems to AI models and full-stack web platforms.
+💡 I enjoy solving real-world problems using data, automation, and cutting-edge technologies — from backend systems to AI models and full-stack web platforms.<br/>
 ⚙️ Always eager to learn, collaborate, and innovate in the world of technology!
 
 📬 Reach out to me:
