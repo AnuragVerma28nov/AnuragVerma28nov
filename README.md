@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About M
 
 Hi 👋, I'm **Anurag Verma**— a passionate Software Engineer and **AI/ML Engineer** who loves building intelligent systems, scalable web apps, and creative tech solutions.
 
