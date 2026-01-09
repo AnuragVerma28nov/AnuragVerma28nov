@@ -1,10 +1,10 @@
 <h1>💫 About Me</h1>
 
 ## 👋 Hi, I'm Anurag Verma 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuragVerma28nov&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragVerma28nov" /> </p>
 
 💻 **Aspiring Developer | Problem Solver | Tech Enthusiast**  
 🚀 Passionate about learning, building projects, and solving coding challenges.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuragVerma28nov&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragVerma28nov" /> </p>
 
 ---
 
