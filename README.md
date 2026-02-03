@@ -16,7 +16,7 @@
 - ⚙️ Backend Basics (django)
 - 🗄️ Database(MySQl, SQLite, PostgreSQL, MongoDB )
 - 🧩 Data Structures & Algorithms
-- 🎨 Responsive UI Design
+- 🎨 Responsive UI Design.
 
 ---
 
