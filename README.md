@@ -15,7 +15,7 @@
 - 🌐 Web Development (HTML, CSS, JavaScript, React)
 - ⚙️ Backend Basics (django)
 - 🗄️ Database(MySQl, SQLite, PostgreSQL, MongoDB )
-- 🧩 Data Structures & Algorithms
+- 🧩 Data Structures & Algorithms.
 - 🎨 Responsive UI Design.
 
 ---
