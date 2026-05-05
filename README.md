@@ -1,6 +1,6 @@
 <h1>💫 About Me</h1>
 
-## 👋 Hi, I'm Anurag Verma
+## 👋 Hi, I'm Anurag Verm
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=AnuragVerma28nov&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragVerma28nov" /> </span>
 
 
