@@ -5,7 +5,7 @@
 
 
 💻 **Aspiring Developer | Problem Solver | Tech Enthusiast**  
-🚀 Passionate about learning, building projects, and solving coding challenges
+🚀 Passionate about learning, building projects, and solving coding challenges.
 
 ---
 
